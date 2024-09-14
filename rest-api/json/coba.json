@@ -1,0 +1,24 @@
+[
+    { 
+        "nama" : "Asriani",
+        "umur" : 19,
+        "NIK"  : "225314081",
+        "hobi" : [
+            "Membaca",
+            "Memasak"
+        ],
+        "Warna favorit" : {
+            "Pertama" : "Biru",
+            "Kedua"   : "Hitam"
+        }
+    },
+    { 
+        "nama" : "Asriani",
+        "umur" : 19,
+        "NIK"  : "225314081",
+        "hobi" : [
+            "Membaca",
+            "Memasak"
+        ]
+    }
+]
